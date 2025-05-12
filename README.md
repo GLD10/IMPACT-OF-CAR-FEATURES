@@ -25,9 +25,9 @@ E. What is the relationship between fuel efficiency and the number of cylinders 
 Firstly, I have taken the dataset and studied the whole dataset to gets some knowledge and get some idea to make decisions. After that, cleaned the dataset removed unnecessary things.
 After analysis, I have started reading tasks understand the statement and identified required columns to solve the tasks. Started creating tables, pivot tables based on task and create graphs or charts to represent visualization of data. This is my approach to solve the given tasks.
 
-Software used to do this project
-# Microsoft Office Excel
-# Microsoft Word Document
+# Software used to do this project
+Microsoft Office Excel
+Microsoft Word Document
 
 # Data Cleaning
 Find the count of blanks for each column using COUNTBLANK() function.
